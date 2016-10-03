@@ -1,0 +1,57 @@
+.navbaritems{
+  list-style-type: none;
+  color:#7B68EE;
+
+
+
+}
+#navbar{
+
+  width: 100px;
+  font-family:serif;
+
+  position: fixed;
+  height: 100%;
+
+  background-color: #DCDCDC;
+
+
+
+
+}
+.navlinks{
+  text-decoration: none
+  color: #7B68EE;
+  height: 30px;
+  font-size: 30px;
+
+
+}
+.navlinks:hover{
+  text-decoration: none;
+  color:#808080;
+}
+*{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.mephoto{
+  height: 100%;
+  width: 800px;
+
+}
+#contentme{
+  background-color: red;
+  float: right;
+
+}
+.nameheader{
+  color: black;
+}
+.start{
+  font-size: 80px;
+}
+p{
+  font-size: 30px;
+}
