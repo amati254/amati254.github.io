@@ -48,6 +48,8 @@
 }
 .nameheader{
   color: black;
+  z-index: 1;
+
 }
 .start{
   font-size: 80px;

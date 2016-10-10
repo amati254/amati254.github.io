@@ -7,6 +7,78 @@
 h3{
   color: #F08080;
 }
+h2{
+  color: 	#778899;
+  font-size: 50px;
+}
 .edu{
   font-size: 20px;
+}
+h1{
+  color: 	#778899;
+  font-size: 60px;
+}
+.work{
+  height: 900px;
+    animation-name: divwork;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-direction: reverse;
+    text-align: center;
+}
+.work p{
+  font-size: 30px;
+}
+@keyframes divwork {
+    0%   {background-color:#F0FFF0; }
+    50%  {background-color:#F0FFF0; }
+    100% {background-color:#F0FFF0; }
+}
+.contactdet{
+  height: 900px;
+    animation-name: divwork;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-direction: reverse;
+}
+.lines{
+  text-align: center;
+}
+@keyframes divwork {
+    0%   {background-color:#F0FFF0; }
+    50%  {background-color:#F0FFF0; }
+    100% {background-color:#F0FFF0; }
+}
+.education{
+  height: 900px;
+    animation-name: divwork;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-direction: reverse;
+    text-align: center;
+}
+.education p{
+  font-size: 30px;
+}
+@keyframes divwork {
+    0%   {background-color:#F0FFF0; }
+    50%  {background-color:#F0FFF0; }
+    100% {background-color:#F0FFF0; }
+}
+.hob{
+  height: 900px;
+    animation-name: divwork;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    animation-direction: reverse;
+    text-align: center;
+}
+.hob li{
+  font-size: 30px;
+  list-style-type: none;
+}
+@keyframes divwork {
+    0%   {background-color:#F0FFF0; }
+    50%  {background-color:#F0FFF0; }
+    100% {background-color:#F0FFF0; }
 }
